@@ -1,0 +1,6 @@
+openai-whisper
+gradio
+pydub
+ffmpeg-python
+pyAudioAnalysis
+numpy
